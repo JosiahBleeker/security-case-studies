@@ -1,2 +1,7 @@
-# security-case-studies
-Sanitized security case studies based on real production environments. Covers infrastructure security assessments, endpoint threat investigations, access control remediation, and misconfiguration risk reduction. Focused on applied cybersecurity decision-making, not lab simulations.
+# Security Case Studies
+
+This repository contains sanitized security case studies derived from real production environments.
+
+The focus is on practical cybersecurity decision-making, including infrastructure security assessments, endpoint threat investigations, and access control remediation.
+
+All sensitive details have been removed. These examples are intended to demonstrate applied security thinking rather than lab simulations.
